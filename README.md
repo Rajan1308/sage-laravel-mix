@@ -84,6 +84,7 @@ add_filter('glide/options', function ($options) {
 
 * [Roots](https://roots.io/)
 * [Robbin Johansson](https://github.com/robbinfellow)
+* [Rajan Gupta-Modification](https://wpcustom.in)
 
 ## License
 
